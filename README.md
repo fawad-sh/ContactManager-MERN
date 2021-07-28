@@ -10,5 +10,5 @@ A registered user can create new contacts.
 - list contacts
 - search contact
 
-Happy Programming :smile
+Happy Programming 😄
 Fawad Sheikh
